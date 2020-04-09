@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "admin",
+      "value": "/admin",
+      "icon": "admin"
+    },
+    {
+      "id": 1,
+      "name": "home",
+      "value": "/home",
+      "icon": "home"
+    },
+    {
+      "id": 2,
+      "name": "work",
+      "value": "/work",
+      "icon": "coding"
+    },
+    {
+      "id": 3,
+      "name": "tech",
+      "value": "/tech",
+      "icon": "settings"
+    },
+    {
+      "id": 4,
+      "name": "contacts",
+      "value": "/contacts",
+      "icon": "contact"
+    }
+]
